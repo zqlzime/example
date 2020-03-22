@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/biz-service/example-biz-service.iml" filepath="$PROJECT_DIR$/biz-service/example-biz-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-dal/example-common-dal.iml" filepath="$PROJECT_DIR$/common-dal/example-common-dal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-integration/example-common-integration.iml" filepath="$PROJECT_DIR$/common-integration/example-common-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-service-facade/example-common-service-facade.iml" filepath="$PROJECT_DIR$/common-service-facade/example-common-service-facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-util/example-common-util.iml" filepath="$PROJECT_DIR$/common-util/example-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-parent.iml" filepath="$PROJECT_DIR$/example-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/example-test.iml" filepath="$PROJECT_DIR$/test/example-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp/example-webapp.iml" filepath="$PROJECT_DIR$/webapp/example-webapp.iml" />
+    </modules>
+  </component>
+</project>
